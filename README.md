@@ -17,12 +17,10 @@ __str__ method: create a string method so that printing an instance of the dice 
 roll method: Rolls the dice to get a random integer between 1 and the number of sides (hint: use the random module). Save the value at the end of a list that tracks all the values rolled.  Returns the number rolled.
 
 
-Example Output From Discussion3.py 
-NOTE: Your output will not look exactly like this because we are using random.
 
 Bonus quiz
 Implement the following method: 
-print_count_for_num method: Takes in a parameter num which specifies which roll value to look for.  Loop through the roll history list and count how many times that num was rolled.  Print the number of times that value was rolled:
+print_count_for_num method: Takes in a parameter num which specifies which roll value to look for.  Loop through the roll history list and count how many times that num was rolled.  Print the number of times that value was rolled.
 
 
 
